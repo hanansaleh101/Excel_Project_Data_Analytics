@@ -23,13 +23,18 @@ The dataset used for this project contains real-world data science job informati
 ## Dashboard Build 
 1. **Charts**  
 **Data Science Job Salaries - Bar Chart** 
-![ ](image.png) 
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c62516de-1c13-4aef-be5b-6a10b18ca75e" />
+
 - **🔧 Excel Features**: Created a horizontal bar chart with currency-formatted axis ($K) and clean layout for accurate comparison.
 - **🎨 Design Choice**: Used horizontal bars to improve readability of long job titles and enhance visual clarity.
 - **📊 Data Organization**: Sorted roles in descending order of median salary to establish a clear ranking structure.
-- **💡 Insights Gained**: Senior and engineering roles significantly out-earn analyst roles, highlighting a strong salary progression in data careers.  
-**Country Median Salaries - Map Chart**  
-![alt text](image-1.png)  
+- **💡 Insights Gained**: Senior and engineering roles significantly out-earn analyst roles, highlighting a strong salary progression in data careers.
+
+**Country Median Salaries - Map Chart**    
+
+<img width="500" height="300" alt="1_Salary_Dashboard_Country_Map" src="https://github.com/user-attachments/assets/1f522d97-e537-4f1e-a69c-20e10d8bc05d" />    
+
+
 - **🌍 Excel Features** : Created a filled map chart with color scaling to show salary differences by country.
 - **🎨 Design Choice**: Used a gradient color scheme to highlight higher-paying regions clearly.
 - **📊 Data Organization**: Aggregated median salaries by country for accurate geographic comparison.
@@ -55,12 +60,11 @@ The dataset used for this project contains real-world data science job informati
 - **⚙️ Text Matching**: Used SEARCH + ISNUMBER to handle partial matches for job schedule types. 
 
 **Result**: This table in the background:  
-
- ![alt text](image-2.png)  
-
+ <img width="265" height="220" alt="image-2" src="https://github.com/user-attachments/assets/209facba-e552-4f10-b5e5-d0dcb4aa6ec3" />  
+ 
 To implement this dashboard below:   
 
-![alt text](image-3.png)  
+<img width="300" height="300" alt="image-3" src="https://github.com/user-attachments/assets/43309015-b7fa-42c5-bd84-84de2446a7bf" />
 
 **Count of Job Schedule Type**  
 
@@ -76,11 +80,12 @@ To implement this dashboard below:
 
 **Result**: This table in the background:   
 
-![alt text](image-4.png)  
- 
+<img width="400" height="400" alt="image-4" src="https://github.com/user-attachments/assets/e9e995f2-4b65-48c1-94f2-be30dc5f814a" />
+
  **3. Data Validation**  
 
- ![alt text](image-5.png)
+<img width="400" height="400" alt="1_Salary_Dashboard_Data_Validation (1)" src="https://github.com/user-attachments/assets/02297f4e-8bd8-4c13-b667-98013ba6e529" />
+
   
   ## Conclusion 
-  I created this Salary dashboard as part of learning how to apply the Excel skills above mentioned. This is helpful to Data job seekers to make better infomred decisions about their career in any country.
+  This Salary dashboard is helpful to Data job seekers. It gives them easy insights on their career search for different roles in any country.

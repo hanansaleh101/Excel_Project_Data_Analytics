@@ -2,7 +2,7 @@
 <img width="800" height="308" alt="ezgif-414d6188b0260109" src="https://github.com/user-attachments/assets/7eb1956d-e9c4-4631-9b75-e960f92d8577" />
 
 ## Introduction
-This Salay dashboard helps data job seekers to determine the Median salaries of different data roles across countries.
+This Salary Dashboard helps data job seekers to learn about the Median salaries of different data roles across all countries and according to job type (full-time or part-time).  
 
 ## Dashboard File  
 My Final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx)  
